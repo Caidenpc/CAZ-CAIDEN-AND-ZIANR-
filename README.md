@@ -33,4 +33,4 @@ Your current balance is 6,000
 
 ## Contributors
 - Zian Relon: Type most of the things
-- Caidem Alava: Helped him think what to type :)
+- Caidem Alava: Helped him think what to type 
